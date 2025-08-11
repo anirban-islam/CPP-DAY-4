@@ -216,5 +216,4 @@
 		return 0;
 	}
 
-# Pointer-Variable-In-C++
 
